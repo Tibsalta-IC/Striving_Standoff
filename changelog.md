@@ -1,3 +1,7 @@
-7.1.0
+0.8.5
+-----------------------------------------------------------------------------------------------------------
+[ADD]
+Add Mod:enigmatic-legacy
 
-Updated to Placebo 8.5.6. Changed a lot of things to use Codecs and Records where applicable.
+[FIX]
+Fixed a bug that sometimes prevented the archive from being accessed properly
