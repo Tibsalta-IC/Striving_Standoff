@@ -2,6 +2,39 @@
 ---
 **[ADD/DELETE]**  
 *MOD:*  
++  
+-Simple Enchantments  
+Simple Weapons for Better Combat  
+Blaze Gear
+
+**[CHANGE]**  
+
+
+**[FIX]**  
+
+<details>
+<summary>中文版本</summary>
+  
+**[添加/删除]**  
+*MOD:*  
++   
+-Simple Enchantments  
+Simple Weapons for Better Combat  
+Blaze Gear
+
+**[改变]**  
+
+
+**[修复]**  
+
+</details>
+
+
+
+***0.8.5***
+---
+**[ADD/DELETE]**  
+*MOD:*  
 +Traveler's Compass  
 When Dungeons Arise - Seven Seas  
 Better Invisibility  
