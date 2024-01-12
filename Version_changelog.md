@@ -6,7 +6,8 @@
 -Simple Enchantments  
 Simple Weapons for Better Combat  
 Blaze Gear  
-JustHammers
+JustHammers  
+Tool Belt
 
 **[CHANGE]**  
 
