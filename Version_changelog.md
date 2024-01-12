@@ -5,7 +5,8 @@
 +  
 -Simple Enchantments  
 Simple Weapons for Better Combat  
-Blaze Gear
+Blaze Gear  
+JustHammers
 
 **[CHANGE]**  
 
