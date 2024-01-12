@@ -2,7 +2,8 @@
 ---
 **[ADD/DELETE]**  
 *MOD:*  
-+  
++Farmer's Utils    
+Enderite  
 -Simple Enchantments  
 Simple Weapons for Better Combat  
 Blaze Gear  
