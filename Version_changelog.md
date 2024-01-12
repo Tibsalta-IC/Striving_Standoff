@@ -26,7 +26,8 @@ Simple Weapons for Better Combat
 Blaze Gear
 
 **[改变]**  
-
+调整部分大型结构的生成率  
+略微降低大部分情况下的怪物生成率
 
 **[修复]**  
 
