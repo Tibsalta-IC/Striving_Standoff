@@ -3,7 +3,7 @@
 **[ADD/DELETE]**  
 *MOD:*  
 +Farmer's Utils    
-Enderite  
+Tetra  
 -Simple Enchantments  
 Simple Weapons for Better Combat  
 Blaze Gear  
@@ -11,26 +11,30 @@ JustHammers
 Tool Belt
 
 **[CHANGE]**  
-
+Adjusted the generation rate of some large structures    
+Slightly reduced the spawn rate of monsters in most cases
 
 **[FIX]**  
-
+Fixed a cause of entity stuttering  
 <details>
 <summary>中文版本</summary>
   
 **[添加/删除]**  
 *MOD:*  
-+   
++Farmer's Utils    
+Tetra  
 -Simple Enchantments  
 Simple Weapons for Better Combat  
-Blaze Gear
+Blaze Gear  
+JustHammers  
+Tool Belt
 
 **[改变]**  
 调整部分大型结构的生成率  
 略微降低大部分情况下的怪物生成率
 
 **[修复]**  
-
+修复可能导致的实体卡顿
 </details>
 
 
