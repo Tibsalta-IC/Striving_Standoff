@@ -10,7 +10,7 @@
 
 
 **[FIX]**  
-
+修复第一次新建存档时的读取错误
 <details>
 <summary>中文版本</summary>
   
