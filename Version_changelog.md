@@ -1,3 +1,40 @@
+***0.8.5.2***
+---
+**[ADD/DELETE]**  
+*MOD:*  
++The Graveyard  
+
+-
+
+**[CHANGE]**  
+
+
+**[FIX]**  
+
+<details>
+<summary>中文版本</summary>
+  
+**[添加/删除]**  
+*MOD:*  
++Farmer's Utils    
+Tetra  
+-Simple Enchantments  
+Simple Weapons for Better Combat  
+Blaze Gear  
+JustHammers  
+Tool Belt
+
+**[改变]**  
+
+
+**[修复]**  
+
+</details>
+
+
+
+
+
 ***0.8.5.1***
 ---
 **[ADD/DELETE]**  
