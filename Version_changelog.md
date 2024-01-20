@@ -4,31 +4,25 @@
 *MOD:*  
 +The Graveyard  
 
--
-
 **[CHANGE]**  
-
+Iron Magic's partial magic damage and cost base multiplier are increased  
 
 **[FIX]**  
-修复第一次新建存档时的读取错误
+Fixed a read error when creating a new archive for the first time    
+Fixed a possible error when loading the archive    
 <details>
 <summary>中文版本</summary>
   
 **[添加/删除]**  
 *MOD:*  
-+Farmer's Utils    
-Tetra  
--Simple Enchantments  
-Simple Weapons for Better Combat  
-Blaze Gear  
-JustHammers  
-Tool Belt
++The Graveyard  
 
 **[改变]**  
-
+铁魔法的部分魔法伤害以及消耗基础倍率增强
 
 **[修复]**  
-
+修复第一次新建存档时的读取错误  
+修复存档加载时可能出现的错误  
 </details>
 
 
