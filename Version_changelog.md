@@ -1,3 +1,30 @@
+***0.8.6***
+---
+**[ADD/DELETE]**  
+*MOD:*  
++Quark  
++Curse of Pandora  
+
+**[CHANGE]**  
+Improve FTB Quests Just a Bit  
+<details>
+<summary>中文版本</summary>
+  
+**[添加/删除]**  
+*MOD:*  
++Quark  
++Curse of Pandora  
+
+**[改变]**  
+新增部分ftb任务
+</details>
+
+
+
+
+
+
+
 ***0.8.5.2***
 ---
 **[ADD/DELETE]**  
