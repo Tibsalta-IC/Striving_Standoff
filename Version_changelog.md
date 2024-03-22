@@ -1,3 +1,22 @@
+***0.8.7***
+---
+
+**[CHANGE]**  
+Improve FTB Quests Just a Bit  
+<details>
+<summary>中文版本</summary>
+
+**[改变]**  
+新增部分ftb任务
+</details>
+
+
+
+
+
+
+
+
 ***0.8.6***
 ---
 **[ADD/DELETE]**  
