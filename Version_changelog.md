@@ -1,11 +1,16 @@
-***0.8.7***
+***0.8.8***
 ---
-
+**[ADD/DELETE]**    
+*MOD:*  
++Jack's Economy (Create Edition)  
 **[CHANGE]**  
 Improve FTB Quests Just a Bit  
 <details>
 <summary>中文版本</summary>
 
+**[ADD/DELETE]**    
+*MOD:*  
++Jack's Economy (Create Edition)  
 **[改变]**  
 新增部分ftb任务
 </details>
