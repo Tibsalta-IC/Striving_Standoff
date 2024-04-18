@@ -3,6 +3,7 @@
 **[ADD/DELETE]**    
 *MOD:*  
 +Jack's Economy (Create Edition)  
++Alex's Caves: Stuff & Torpedoes  
 **[CHANGE]**  
 Improve FTB Quests Just a Bit  
 <details>
@@ -11,6 +12,7 @@ Improve FTB Quests Just a Bit
 **[ADD/DELETE]**    
 *MOD:*  
 +Jack's Economy (Create Edition)  
++Alex's Caves: Stuff & Torpedoes  
 **[改变]**  
 新增部分ftb任务
 </details>
