@@ -5,6 +5,7 @@
 +Jack's Economy (Create Edition)  
 -Bountiful  
 -When Dungeons Arise  
+-Origins  
 +Alex's Caves: Stuff & Torpedoes  
 **[CHANGE]**  
 Improve FTB Quests Just a Bit  
@@ -16,6 +17,7 @@ Improve FTB Quests Just a Bit
 +Jack's Economy (Create Edition)  
 -Bountiful  
 -When Dungeons Arise  
+-Origins  
 +Alex's Caves: Stuff & Torpedoes  
 **[改变]**  
 新增部分ftb任务
