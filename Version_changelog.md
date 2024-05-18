@@ -9,6 +9,7 @@
 +Alex's Caves: Stuff & Torpedoes  
 **[CHANGE]**  
 Improve FTB Quests Just a Bit  
+Dramatically reduce redundant content and simplify mods  
 <details>
 <summary>中文版本</summary>
 
@@ -20,7 +21,8 @@ Improve FTB Quests Just a Bit
 -Origins  
 +Alex's Caves: Stuff & Torpedoes  
 **[改变]**  
-新增部分ftb任务
+新增部分ftb任务  
+大幅度减少冗余内容 简化模组  
 </details>
 
 
