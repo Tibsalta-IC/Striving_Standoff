@@ -16,9 +16,9 @@ Entities now have a maximum spawn limit.
 -Shield Expansion   
 
 **[改变]**  
-调整职业初始属性，不会再有过低的移动速度了
-巨人僵尸生成概率降低
-现在实体生成有最大数量限制
+调整职业初始属性，不会再有过低的移动速度了  
+巨人僵尸生成概率降低  
+现在实体生成有最大数量限制  
 </details>
 
 
