@@ -1,3 +1,32 @@
+***0.8.8.1***
+---
+**[ADD/DELETE]**    
+*MOD:*  
+-Shield Expansion  
+
+**[CHANGE]**  
+Adjust starting attributes for professions, eliminating excessively low movement speeds.  
+Reduce the spawn probability of Giant Zombies.  
+Entities now have a maximum spawn limit.
+<details>
+<summary>中文版本</summary>
+
+**[ADD/DELETE]**    
+*MOD:*  
+-Shield Expansion   
+
+**[改变]**  
+调整职业初始属性，不会再有过低的移动速度了
+巨人僵尸生成概率降低
+现在实体生成有最大数量限制
+</details>
+
+
+
+
+
+
+
 ***0.8.8***
 ---
 **[ADD/DELETE]**    
