@@ -1,3 +1,41 @@
+***0.8.9***
+---
+**[ADD/DELETE]**    
+*MOD:*  
++Create Contraption Terminals  
++Exposure    
++Spell Checker    
++Better Treasure Map    
++Enhanced Boss Bars      
+
+**[CHANGE]**  
+
+<details>
+<summary>中文版本</summary>
+
+**[ADD/DELETE]**    
+*MOD:*  
++Create Contraption Terminals  
++Exposure    
++Spell Checker    
++Better Treasure Map    
++Enhanced Boss Bars     
+
+**[改变]**  
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
 ***0.8.8.1***
 ---
 **[ADD/DELETE]**    
