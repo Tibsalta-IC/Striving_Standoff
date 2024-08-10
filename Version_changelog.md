@@ -6,9 +6,14 @@
 +Exposure    
 +Spell Checker    
 +Better Treasure Map    
-+Enhanced Boss Bars      
++Enhanced Boss Bars  
++aleki's Nifty Ships  
+
+-Let's do Wine / Vinery  
+-Passive Skill Tree
 
 **[CHANGE]**  
+Improve FTB  quests  
 
 <details>
 <summary>中文版本</summary>
@@ -19,9 +24,14 @@
 +Exposure    
 +Spell Checker    
 +Better Treasure Map    
-+Enhanced Boss Bars     
++Enhanced Boss Bars  
++aleki's Nifty Ships  
+
+-Let's do Wine / Vinery  
+-Passive Skill Tree  
 
 **[改变]**  
+继续完善FTB任务  
 
 </details>
 
