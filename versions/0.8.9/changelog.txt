@@ -1,1 +1,36 @@
+***0.8.9***
+---
+**[ADD/DELETE]**    
+*MOD:*  
++Create Contraption Terminals  
++Exposure    
++Spell Checker    
++Better Treasure Map    
++Enhanced Boss Bars  
++aleki's Nifty Ships  
 
+-Let's do Wine / Vinery  
+-Passive Skill Tree
+
+**[CHANGE]**  
+Improve FTB  quests  
+
+<details>
+<summary>中文版本</summary>
+
+**[ADD/DELETE]**    
+*MOD:*  
++Create Contraption Terminals  
++Exposure    
++Spell Checker    
++Better Treasure Map    
++Enhanced Boss Bars  
++aleki's Nifty Ships  
+
+-Let's do Wine / Vinery  
+-Passive Skill Tree  
+
+**[改变]**  
+继续完善FTB任务  
+
+</details>
