@@ -1,7 +1,7 @@
-***0.8.9***
----
-**[ADD/DELETE]**    
-*MOD:*  
+0.8.9
+
+[ADD/DELETE]    
+MOD: 
 +Create Contraption Terminals  
 +Exposure    
 +Spell Checker    
@@ -12,12 +12,12 @@
 -Let's do Wine / Vinery  
 -Passive Skill Tree
 
-**[CHANGE]**  
+[CHANGE]
 Improve FTB  quests  
 
-<details>
-<summary>中文版本</summary>
 
+
+中文
 **[ADD/DELETE]**    
 *MOD:*  
 +Create Contraption Terminals  
@@ -30,7 +30,6 @@ Improve FTB  quests
 -Let's do Wine / Vinery  
 -Passive Skill Tree  
 
-**[改变]**  
+[改变]  
 继续完善FTB任务  
 
-</details>
